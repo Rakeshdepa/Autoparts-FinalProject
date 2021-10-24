@@ -1,0 +1,15 @@
+1
+Spark Plug
+10
+2
+Dash Board
+30
+3
+Tyre
+35
+4
+ABC
+45
+21
+23
+12
